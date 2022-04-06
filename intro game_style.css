@@ -1,0 +1,47 @@
+html,body{
+	padding: 0;
+	margin: 0;
+	background-color: #575757;
+}
+
+.main{
+	padding: 48px;
+	margin: 24px;
+	color: #578cad;
+	background-color: #eee;
+	box-shadow: 5px 5px 30px #777;
+	border-radius: 3px;
+     text-align: center;
+}
+
+.pop_1,.pop_2{
+     display: none;
+     padding: 12px;
+	margin: 24px;
+	background-color: #c1d1db;
+	color: #575757;
+     box-shadow: 5px 5px 30px #777;
+	border-radius: 3px;
+     position: relative;
+     
+	font-family: "微軟正黑體";
+	font-size: 12px;
+	font-weight: 500;
+	line-height: 16px;
+     letter-spacing: 4px;
+}
+
+button{
+	margin: 8px;
+	padding: 5px 10px;
+	box-shadow: 2px 2px 5px #aaa;
+     font-weight: bold;
+     border: none;
+     border-radius: 5px;
+     background-color: #fff;
+}
+img{
+     position: absolute;
+     top: 12px;
+     right: 24px;
+}
